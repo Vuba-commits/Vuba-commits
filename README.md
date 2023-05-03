@@ -1,5 +1,7 @@
-### Hi there 👋
+Ciao a tutti! 👋
 
+Mi chiamo Alessandro Ducato ho 24 anni e da sempre l'ambito della tecnologia mi ha incuriosito, da autodidatta ho provato a studiare qualcosa e conoscere meglio questo mondo ma con scarsi risultati, tramite Develhope ho superato i vari impedimenti e mi sono appassionato al CRM nello specifico in Salesforce.
+Ho conseguito il corso come Admin e Developer e adesso sto cercando un ambito di sviluppo dove posso mettere in pratica tutto ciò che ho imparato e perfezionare il mio metodo
 <!--
 **Vuba-commits/Vuba-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
